@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_labels">
+        <item>@string/menu_one</item>
+        <item>@string/menu_two</item>
+        <item>@string/menu_three</item>
+        <item>@string/menu_four</item>
+    </string-array>
+    <string-array name="drawer_icons">
+        <item>@drawable/icon_one</item>
+        <item>@drawable/icon_two</item>
+        <item>@drawable/icon_three</item>
+        <item>@drawable/icon_four</item>
+    </string-array>
+</resources>

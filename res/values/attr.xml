@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrimInsetsView">
+        <attr name="insetForeground" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleUserLevel">
+        <!--<attr name="cul_border" format="boolean"></attr>-->
+        <!--<attr name="cul_border_width" format="dimension"></attr>-->
+        <!--<attr name="cul_border_color" format="color"></attr>-->
+        <!--<attr name="cul_shadow" format="boolean"></attr>-->
+        <attr name="cul_user_level" format="integer"></attr>
+        <attr name="cul_show_level_label" format="boolean"></attr>
+        <attr name="cul_animate_at_begin" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="CircularImageView">
+        <attr name="border" format="boolean"></attr>
+        <attr name="border_width" format="dimension"></attr>
+        <attr name="border_color" format="color"></attr>
+        <attr name="shadow" format="boolean"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="Theme">
+        <attr name="circularImageViewStyle" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="PathView">
+        <attr name="path_stroke_width" format="dimension"></attr>
+        <attr name="path_stroke_color" format="color"></attr>
+        <attr name="blur_stroke" format="boolean"></attr>
+    </declare-styleable>
+</resources>

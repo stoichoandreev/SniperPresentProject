@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/selected_drawer_items_background_color" android:state_active="false"/>
+    <item android:drawable="@drawable/slide_item_click" android:state_pressed="true"/>
+    <item android:drawable="@drawable/slide_item_click" android:state_activated="true"/>
+
+</selector>

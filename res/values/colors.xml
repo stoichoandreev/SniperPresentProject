@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_items_text_color">#222222</color>
+    <color name="path_view_stroke_color">#2F4F4F</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="light_grey">#DDDDDD</color>
+    <color name="user_name_post_color">#666666</color>
+    <color name="you_local_green">#00D95B</color>
+    <color name="you_local_green_pressed">#00695D</color>
+    <color name="white_color_with_alpha_10">#20FFFFFF</color>
+    <color name="white_color_with_alpha_25">#44FFFFFF</color>
+    <color name="black_color_with_alpha_25">#44000000</color>
+    <color name="white_color_with_alpha_40">#66FFFFFF</color>
+    <color name="drawer_background">#000000</color>
+    <color name="selected_drawer_items_background_color">#22ffffff</color>
+    <color name="toolbar_color">#33000000</color>
+    <color name="toolbar_text_color">#ffffff</color>
+    <color name="color_for_notification_bar_when_drawer_open">#33000000</color>
+    <!-- Stopwatch wheels colors-->
+    <color name="stopwatch_bar_color">#00A55B</color>
+    <color name="stopwatch_rim_color">#0046DB</color>
+    <!-- Assessment Progress-->
+    <color name="assessment_progress_start">#4500ff</color>
+    <color name="assessment_progress_mid">#4578ff</color>
+    <color name="assessment_progress_end">#2341ffff</color>
+    <!-- User Level Colors-->
+    <color name="user_level_1">#d74d6b</color>
+    <color name="user_level_2">#c26779</color>
+    <color name="user_level_3">#ae8386</color>
+    <color name="user_level_4">#8ab09b</color>
+    <color name="user_level_5">#58e7b5</color>
+    <color name="user_level_6">#39eab6</color>
+    <color name="user_level_7">#41fff7</color>
+    <color name="user_level_8">#41ffff</color>
+    <color name="user_level_9">#ff9911</color>
+    <color name="user_level_10">#ff9944</color>
+    <color name="user_level_default">#19000000</color>
+</resources>

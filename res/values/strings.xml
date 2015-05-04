@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Present My Self</string>
+    <string name="loading">Loading ...</string>
+    <string name="level">level</string>
+    <string name="menu_one">Menu One</string>
+    <string name="menu_two">Menu Two</string>
+    <string name="menu_three">Menu Three</string>
+    <string name="menu_four">Menu Four</string>
+    <string name="action_bar_main_title">Main Title</string>
+    <string name="friends">Friends</string>
+    <string name="trainings">Trainings</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="likes">Likes</string>
+    <string name="comments">Comments</string>
+    <string name="shares">Shares</string>
+    <string name="desc">Descr</string>
+    <string name="user_default_name">Roger Federer</string>
+    <string name="long_text">Google Play store has exploded in recent years, with a proliferation of apps that can cater to your every need. The problem is: there are just too many of them.\n
+        Even with Editor\'s Picks, Featured and Best Selling, Top Paid and Top Free categories there to help you out with your downloading decision it\'s still a difficult task finding the best apps around.\n
+        And that\'s why we made this list. Like you we want the best apps for our Android phones. The apps that are going to revolutionise functionality or, at the very least, offer something so great that it becomes one of the must-have apps that has to be downloaded whenever you get a new handset.\n
+        The following apps will be constantly updated and are a mixture of paid and free ones and have been chosen by our Android experts. So, even if you do dip into actual cash for one of these apps, you are safe in the knowledge that it is a worthwhile purchase.\n
+        No, wait. It is free. Sort of. Spotify now comes with a stripped-down playlist combo for users who don\'t pay for the service but still want to use it on mobile, accompanied by a swish new tablet interface that has much more in common with the free desktop browser player. So yes, it\'s free. Hobbled a bit, but free.
+        The premium version drops the annoying adverts, ups the audio quality and provides additional features such as offline play, so it\'s worth splashing out for the subscription if you use the service often.</string>
+
+</resources>

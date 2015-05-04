@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:cul="http://schemas.android.com/apk/res-auto">
+    <Button
+        android:id="@+id/continue_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:text="to continue click on the image"
+        android:src="@drawable/white_background_with_border"
+        android:background="@color/white_color_with_alpha_10"/>
+    <com.sniper.presentproject.custom.CircleUserLevel
+        android:id="@+id/circle_user_level"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/prof_image"
+        android:layout_centerInParent="true"
+        cul:cul_show_level_label="true"
+        cul:cul_animate_at_begin="true"
+        cul:cul_user_level="5"/>
+
+</RelativeLayout>
